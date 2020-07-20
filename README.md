@@ -5,6 +5,7 @@
 - ⚡ Fun fact **Sounder4 is overturtled :D**
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=losek1&show_icons=true" alt="krzysztofzawisła" /> </p>
 <!--
 **losek1/losek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
