@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mateusz Perczak</h1>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
+- 🔭 I’m currently working on [Sounder4](https://github.com/losek1/Sounder4)
 
+- ⚡ Fun fact **Sounder4 is overturtled :D**
+
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
 <!--
 **losek1/losek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
