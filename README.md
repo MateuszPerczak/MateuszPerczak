@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Sounder5
 
-- ⚡ Fun fact **Sounder4 is overturtled :D**
+- ⚡ Fun fact **Sounder4** is overturtled :D
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=losek1&show_icons=true" alt="Mateusz" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=losek1&show_icons=true" alt="Mateusz Perczak" /></p>
 
 
