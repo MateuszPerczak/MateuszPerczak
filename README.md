@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mateusz Perczak
 
-`A passionate fullstack python/web developer from Poland`
+`A passionate fullstack web developer from Poland`
 
 ![Mateusz Perczak](https://komarev.com/ghpvc/?username=MateuszPerczak&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/MateuszPerczak?style=for-the-badge)
