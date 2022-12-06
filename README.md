@@ -8,7 +8,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[PyScript-React](https://github.com/Py4Js/PyScript-React)** and my **[Portfolio](https://github.com/MateuszPerczak/mateuszperczak.github.io)**
 
 - 🪅 I’m currently learning **Typescript**
 
