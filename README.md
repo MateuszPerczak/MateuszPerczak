@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🪅 I’m currently learning **Typescript**
+- 🪅 I’m currently learning **Zig**
 
 - 📫 You can reach me via [**mateusz.perczak.mp@gmail.com**](mailto:mateusz.perczak.mp@gmail.com)
 
